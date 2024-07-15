@@ -1,0 +1,9 @@
+{
+	"name": "databricks-tedokon",
+	"location": "eastus2",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "34f8e639-8dd3-4622-bb34-371a197eb761",
+		"tenantId": "ac136531-2672-437e-a171-0a4847bb2fc4"
+	}
+}
